@@ -1,6 +1,5 @@
 <?php
 
-
-echo 'asdasa';
+echo 'Hello World';
 
 ?>
